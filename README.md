@@ -1,4 +1,5 @@
-#Página de login
+###Página de login.
+
 Nos han pedido que trabajemos en el desarrollo de la página de login de nuestra aplicación y para ello el maquetador ya ha preparado la estructura y el diseño de la vista. En ella nos encontramos dos campos de formulario un input para usuario y uno para contraseña.
 
 Nosotros tenemos guardados en nuestro server un objeto con los datos del usuario, además nuestra compañera nos ha dejado preparada ya una variable attemps que contabiliza los intentos de login (pero se ha tenido que ir corriendo de vacaciones y ha dejado la página sin terminar).
